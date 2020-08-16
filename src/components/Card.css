@@ -23,11 +23,11 @@
 .Card.Red .Header { color: #FFF; background-color: #c62828; }
 .Card.Red .Content { background-color: #f44336; }
 
-.Card.Blue .Header { color: #FFF; background-color: #2e7d32; }
-.Card.Blue .Content { background-color: #4caf50; }
+.Card.Blue .Header { color: #FFF; background-color: #1565c0; }
+.Card.Blue .Content { background-color: #2196f3; }
 
-.Card.Green .Header { color: #FFF; background-color: #1565c0; }
-.Card.Green .Content { background-color: #2196f3; }
+.Card.Green .Header { color: #FFF; background-color: #2e7d32; }
+.Card.Green .Content { background-color: #4caf50; }
 
 .Card.Purple .Header { color: #FFF; background-color: #6a1b6a; }
 .Card.Purple .Content { background-color: #9c27b0; }
