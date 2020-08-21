@@ -1,3 +1,10 @@
+# Redux React Studies
+
+> This project was created for my pessoal Redux studies.
+>
+> > *- Henrique Artur*
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
